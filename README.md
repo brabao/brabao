@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/brabao"><img src="https://api.daily.dev/devcards/327bf58b0415488385db6462a4053f41.png?r=3t2" width="400" alt="Danilo Ribeiro da Silveira's Dev Card"/></a>
 <!--
 **brabao/brabao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
