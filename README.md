@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   4 hrs 55 mins   ████████████████████▒░░░░   81.85 % 
+SQL          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Other        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+C#           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+```
 <!--END_SECTION:waka-->
