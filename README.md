@@ -33,11 +33,11 @@ Welcome to my page! </br> I'm Danilo, Fullstack developer from Brazil
 ### WakaTime
 <!--START_SECTION:waka-->
 ```text
-CSS          2 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 % 
-sh           2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-TypeScript   2 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 % 
-HTML         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-CSHTML       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML         4 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.28 % 
+CSS          2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+sh           2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+TypeScript   57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+CSHTML       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 ```
 <!--END_SECTION:waka-->
 
