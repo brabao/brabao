@@ -34,10 +34,10 @@ Welcome to my page! </br> I'm Danilo, Fullstack developer from Brazil
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.69 %
-sh           1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-JavaScript   1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TypeScript   5 hrs 49 mins   ██████████████▒░░░░░░░░░░   57.43 %
+sh           2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+JavaScript   1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
