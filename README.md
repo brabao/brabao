@@ -33,7 +33,7 @@ Welcome to my page! </br> I'm Danilo, Fullstack developer from Brazil
 ### WakaTime
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
