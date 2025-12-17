@@ -66,9 +66,7 @@
                             <mask id="mask-12" fill="white">
                                 <use xlink:href="#path-11"></use>
                             </mask>
-                            <g transform="translate(0, 0.000000)" mask="url(#mask-12)">
-                <image x="0" y="0" width="64" height="64" xlink:href="data:image/jpeg;base64,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"></image>
-              </g>
+                            
                         </g>
                         <text id="Favorite-publication" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
                             <tspan x="0" y="22">Favorite publications</tspan>
@@ -81,7 +79,7 @@
                 <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Database</tspan>
+                <tspan x="0" y="22">Social Media</tspan>
               </text>
               <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
                 <tspan x="336" y="43">1</tspan>
@@ -92,29 +90,7 @@
                 <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
               </g>
               <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Devops</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 132)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Git</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 198)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">Backend</tspan>
+                <tspan x="0" y="22">Tools</tspan>
               </text>
               <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
                 <tspan x="336" y="43">1</tspan>
